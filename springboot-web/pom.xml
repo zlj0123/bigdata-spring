@@ -3,18 +3,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>io.ibigdata.springboot</groupId>
-        <artifactId>bigdata-springboot</artifactId>
+        <groupId>io.ibigdata</groupId>
+        <artifactId>springboot</artifactId>
         <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
-    <groupId>io.ibigdata.springboot</groupId>
+    <groupId>io.ibigdata</groupId>
     <artifactId>springboot-web</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>${revision}</version>
     <name>springboot-web</name>
     <description>Demo project for Spring Boot</description>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
