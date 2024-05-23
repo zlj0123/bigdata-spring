@@ -1,6 +1,6 @@
-package io.ibigdata.springboot.springbootweb.repo;
+package io.ibigdata.springweb.repo;
 
-import io.ibigdata.springboot.springbootweb.entity.Student;
+import io.ibigdata.springweb.entity.Student;
 import org.springframework.data.repository.CrudRepository;
 
 public interface StudentRepository extends CrudRepository<Student, Integer> {

@@ -1,4 +1,4 @@
-package io.ibigdata.springboot.springbootweb.entity;
+package io.ibigdata.springweb.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

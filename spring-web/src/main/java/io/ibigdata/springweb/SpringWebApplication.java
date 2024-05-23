@@ -1,4 +1,4 @@
-package io.ibigdata.springboot.springbootweb;
+package io.ibigdata.springweb;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -9,10 +9,10 @@ import org.springframework.context.annotation.Bean;
 import java.util.Arrays;
 
 @SpringBootApplication
-public class SpringbootWebApplication {
+public class SpringWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootWebApplication.class, args);
+		SpringApplication.run(SpringWebApplication.class, args);
 	}
 
 	@Bean

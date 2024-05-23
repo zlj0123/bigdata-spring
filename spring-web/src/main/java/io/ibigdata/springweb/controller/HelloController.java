@@ -1,4 +1,4 @@
-package io.ibigdata.springboot.springbootweb.controller;
+package io.ibigdata.springweb.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

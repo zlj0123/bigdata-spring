@@ -1,4 +1,4 @@
-package io.ibigdata.springboot.springbootweb.controller;
+package io.ibigdata.springweb.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

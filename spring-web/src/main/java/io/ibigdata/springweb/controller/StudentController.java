@@ -1,7 +1,7 @@
-package io.ibigdata.springboot.springbootweb.controller;
+package io.ibigdata.springweb.controller;
 
-import io.ibigdata.springboot.springbootweb.entity.Student;
-import io.ibigdata.springboot.springbootweb.repo.StudentRepository;
+import io.ibigdata.springweb.entity.Student;
+import io.ibigdata.springweb.repo.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
