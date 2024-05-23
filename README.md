@@ -1,2 +1,2 @@
-# bigdata-springboot
-spring boot study demo
+# bigdata-spring
+spring study demo
